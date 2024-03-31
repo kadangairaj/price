@@ -10,7 +10,7 @@ function App() {
     Public : "✅Unlimited  Public Projects",
     Access : "✅Community Access",
     Private : {
-      value :" ❌ Unlimited Pravite Projects",
+      value :" ❌ Unlimited Private Projects",
       style : "disabled"
     },
     Phone : {
@@ -34,7 +34,7 @@ function App() {
     Public : "✅Unlimited  Public Projects",
     Access : "✅Community Access",
     Private : {
-      value :" ✅ Unlimited Pravite Projects",
+      value :" ✅ Unlimited Private Projects",
       style : "abled",
     },
     Phone : {
@@ -58,7 +58,7 @@ function App() {
     Public : "✅Unlimited  Public Projects",
     Access : "✅Community Access",
     Private : {
-      value :"✅Unlimited Pravite Projects",
+      value :"✅Unlimited Private Projects",
       style : "abled",
     },
     Phone : {
