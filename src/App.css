@@ -1,0 +1,53 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+Pcard {
+  background-color: blue;
+  height: 250px;
+  width: 100vh;
+}
+
+.p-card {
+  margin: 5px;
+  width: 300px;
+  height: 480px;
+  padding: 2opx;
+  border-radius: 15px;
+  background-color: whitesmoke ;
+  box-shadow: black 10px 6px;
+  transition: 2s ;
+}
+.p-card:hover{
+  box-shadow: red 6px 3px;
+  color:black;
+  background-color: blanchedalmond;
+  opacity: 5;
+}
+button {
+ border: none;
+ background-color: greenyellow;
+ padding: 10px;
+ border-radius: 8px;
+ width: 130px;  
+}
+button:hover {
+  color: white;
+  background-color: black;
+  cursor:pointer
+}
+.all{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.abled {
+  opacity: normal;
+}
+.disabled {
+  opacity: 0.20;
+}
