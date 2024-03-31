@@ -52,7 +52,7 @@ function App() {
   }
   const pro ={
     type : "PRO",
-    Price : 50,
+    Price : 100,
     User : "✅Single User",
     Stroage : 50,
     Public : "✅Unlimited  Public Projects",
