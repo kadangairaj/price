@@ -19,6 +19,7 @@ Pcard {
   background-color: whitesmoke ;
   box-shadow: black 10px 6px;
   transition: 2s ;
+  
 }
 .p-card:hover{
   box-shadow: red 6px 3px;
@@ -50,4 +51,9 @@ button:hover {
 }
 .disabled {
   opacity: 0.20;
+}
+
+.pcard {
+  text-align: start;
+  padding-left: 45px;
 }
